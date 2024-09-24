@@ -1,0 +1,128 @@
+header{
+    display: inline-flex;
+    width: 1328px;
+    height: 100px;
+}
+.logo img{
+    width: 150px;
+    margin: 30PX;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+nav ul{
+    list-style-type: none;
+    display: inline-flex;
+    margin-left: 400px;
+    margin-top: 20px
+}
+nav li{
+    margin: 30px;
+}
+.herosec{
+    margin-top: -30px;
+    background-color: white;
+}
+.heroimg img{
+    margin: 80px;
+    margin-left: 10px;
+}
+.herotext{
+    margin-left: 720px;
+    margin-top: -530px;
+    
+}
+.herotext img{
+    width: 100px;
+
+}
+.herotext h3{
+    font-size: 21px;
+}
+.herotext h1{
+    font-size: 50px;
+    margin-top: -9px;
+}
+.herotext p{
+    margin-top: -12px;
+
+}
+.herotext button{
+    margin-top: 25px;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px yellowgreen;
+    background-color: yellowgreen;
+}
+.herotext button a{
+    text-decoration: none;
+    color: white;
+}
+.herodiv{
+    background-color: black;
+    color: white;
+    display: inline-flex;
+    width: 1327px;
+}
+.herodiv .free{
+    margin: 20px;
+    margin-left: 50px;
+    border: 2px solid rgb(73, 72, 72);
+    background-color: rgb(73, 72, 72);
+    width: 280px;
+    text-align: center;
+    border-radius: 5px;
+}
+.herodiv .cert{
+    margin: 20px;
+    margin-left: 10px;
+    border: 2px solid rgb(73, 72, 72);
+    background-color: rgb(73, 72, 72);
+    width: 280px;
+    text-align: center;
+    border-radius: 5px;
+}
+.herodiv .huge{
+    margin: 20px;
+    margin-left: 10px;
+    border: 2px solid rgb(73, 72, 72);
+    background-color: rgb(73, 72, 72);
+    width: 280px;
+    text-align: center;
+    border-radius: 5px;
+}
+.herodiv .easy{
+    margin: 20px;
+    margin-left: 10px;
+    border: 2px solid rgb(73, 72, 72);
+    background-color: rgb(73, 72, 72);
+    width: 280px;
+    text-align: center;
+    border-radius: 5px;
+}
+.herodiv h3{
+    margin-top: -5px;
+
+}
+.herodiv p{
+    margin-top: -15px;
+    font-size: 12px;
+}
+.herodiv .don{
+    margin-left: 70px;
+    text-align: justify;
+}
+.groceries h1{
+    text-align: center;
+    margin-top: 90px;
+}
+.groceries img{
+    margin-left: 650px;
+}
+.groceries .groc{
+    display: inline-flex;
+    margin: 0PX;
+}
